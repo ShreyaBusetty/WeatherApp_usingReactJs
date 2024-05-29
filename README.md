@@ -22,4 +22,5 @@ This is a simple weather application built with React that allows users to searc
 
    ```bash
    git clone https://github.com/your-username/weather-app.git
+Web Page OverView:   
 ![Screenshot 2024-05-29 161458](https://github.com/ShreyaBusetty/WeatherApp_usingReactJs/assets/134276174/55a41847-9c09-4b4f-a5e9-6eda5b250464)
